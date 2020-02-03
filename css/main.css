@@ -24,21 +24,21 @@ body {
 
 ::-webkit-scrollbar-thumb {
     cursor: pointer;
-    background: #ff7607
+    background: #9FD083
 }
 
 ::selection {
-    background-color: #ff7607;
+    background-color: #9FD083;
     color: #fff
 }
 
 -webkit-::selection {
-    background-color: #ff7607;
+    background-color: #9FD083;
     color: #fff
 }
 
 ::-moz-selection {
-    background-color: #ff7607;
+    background-color: #9FD083;
     color: #fff
 }
 
@@ -901,7 +901,7 @@ button {
 }
 
 .service-item .service-icon {
-    color: #99FF00;
+    color: #9FD083;
     font-size: 60px;
     margin-bottom: 10px
 }
@@ -935,7 +935,7 @@ button {
 }
 
 .service-item:hover {
-    background-color: #99FF00;
+    background-color: #9FD083;
     transition: all .2s ease-in-out
 }
 
@@ -1018,7 +1018,7 @@ button {
 
 .services-list .service-item i {
     font-size: 50px;
-    color: #ff7607;
+    color: #9FD083;
     margin-bottom: 10px;
     display: block
 }
@@ -1146,7 +1146,7 @@ button {
 }
 
 .project-item .overlay {
-    background-color: rgba(255, 118, 7, .8);
+    background-color: rgba(100, 200, 7, .8);
     content: "";
     position: absolute;
     width: 100%;
