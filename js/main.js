@@ -143,7 +143,7 @@
                 items: 2,
             },
             992 : {
-                items: 4,
+                items: 3,
             }
         }
     });
@@ -154,7 +154,7 @@
     $('#projects-carousel').owlCarousel({
         loop: true,
         margin: 0,
-        autoplay: false,
+        autoplay: true,
         smartSpeed: 500,
         nav: true,
         navText: ['<i class="fa fa-caret-left"></i>', '<i class="fa fa-caret-right"></i>'],
