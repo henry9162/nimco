@@ -164,7 +164,7 @@
                 items: 1
             },
             580 : {
-                items: 2,
+                items: 1,
             },
             768 : {
                 items: 2,
